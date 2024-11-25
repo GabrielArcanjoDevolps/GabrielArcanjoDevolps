@@ -64,11 +64,6 @@ Olá! Sou Gabriel Arcanjo, desenvolvedor Full Stack com experiência em criar so
 - ❗ **Total de Issues:** 30  
 - 📂 **Repositórios Contribuídos no Último Ano:** 15  
 
-## 📊 Minhas Estatísticas  
-
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeuUsername&show_icons=true&theme=radical)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsername&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
-
 ---
 
 ## 🌱 Próximos Passos  
